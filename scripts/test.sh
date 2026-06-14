@@ -1,0 +1,3 @@
+echo $(hostname)
+nvidia-smi
+
