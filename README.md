@@ -2,7 +2,7 @@
 
 <img src="figs/title_figure.png" alt="Multi-Token Residual Prediction" width="500"/>
 
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/XXXX.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.18817-b31b1b.svg?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2605.18817)
 [![Models](https://img.shields.io/badge/🤗_Models-MRP-FFD21E.svg?style=for-the-badge)](https://huggingface.co/collections/heavyball/sdar-mrp)
 [<img src="figs/sglang-badge.svg" alt="SGLang Inference"/>](https://github.com/heavyball-research/sglang)
 
